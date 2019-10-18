@@ -1,0 +1,2562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BatchLetters>
+  <Header>
+    <DateStamp>2019-09-24T05:00:01Z</DateStamp>
+    <FileNameDateStamp>20190924000001</FileNameDateStamp>
+    <LetterCount TotalCount="108">
+      <Letter Name="OESP_LETTER" Count="13"/>
+      <Letter Name="OESP_EXPIRY_LETTER" Count="2"/>
+      <Letter Name="FR_NOTICE" Count="42"/>
+      <Letter Name="WELCOME_LETTER_RESI" Count="40"/>
+      <Letter Name="EBT_DEFAULT_DROP_LETTER" Count="2"/>
+      <Letter Name="RETURN_PAYMENT" Count="8"/>
+      <Letter Name="PAP_REMOVAL" Count="1"/>
+    </LetterCount>
+  </Header>
+  <Letter>
+    <ReferenceId>LTR000000063839</ReferenceId>
+    <LetterType>OESP_LETTER</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>MIZZI, DANIELLE</CustomerName>
+      <AddressLine1>919 SILVERFOX CRES</AddressLine1>
+      <AddressLine2>LONDON ON  N6G 0N5</AddressLine2>
+      <PostalCode>N6G 0N5</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>919 SILVERFOX CRES</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000050890724</AccountNumber>
+      <FirstName>DANIELLE</FirstName>
+      <LastName>MIZZI</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000063840</ReferenceId>
+    <LetterType>OESP_LETTER</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>ARANA-ROMITI, ANNIE</CustomerName>
+      <AddressLine1>604 EMERY ST E UNIT A</AddressLine1>
+      <AddressLine2>LONDON ON  N6C 2G4</AddressLine2>
+      <PostalCode>N6C 2G4</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>604 EMERY ST E UNIT A</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051432608</AccountNumber>
+      <FirstName>ANNIE</FirstName>
+      <LastName>ARANA-ROMITI</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064111</ReferenceId>
+    <LetterType>OESP_LETTER</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>KOLODY, NATALIE</CustomerName>
+      <AddressLine1>68 CATHCART ST UNIT FRONT</AddressLine1>
+      <AddressLine2>LONDON ON  N6C 3M1</AddressLine2>
+      <PostalCode>N6C 3M1</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>128 CENTRAL AVE UNIT 4</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000050809965</AccountNumber>
+      <FirstName>NATALIE</FirstName>
+      <LastName>KOLODY</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064112</ReferenceId>
+    <LetterType>OESP_LETTER</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>BADAWI, MANAL</CustomerName>
+      <AddressLine1>122 SHERWOOD FOREST SQ UNIT 12</AddressLine1>
+      <AddressLine2>LONDON ON  N6G 5G8</AddressLine2>
+      <PostalCode>N6G 5G8</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>122 SHERWOOD FOREST SQ UNIT 12</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051261338</AccountNumber>
+      <FirstName>MANAL</FirstName>
+      <LastName>BADAWI</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064113</ReferenceId>
+    <LetterType>OESP_LETTER</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>SIMS, BRIANNE</CustomerName>
+      <AddressLine1>505 TALBOT ST UNIT 2508</AddressLine1>
+      <AddressLine2>LONDON ON  N6A 2S6</AddressLine2>
+      <PostalCode>N6A 2S6</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>332 RICHMOND ST UNIT 206</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051251389</AccountNumber>
+      <FirstName>BRIANNE</FirstName>
+      <LastName>SIMS</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064114</ReferenceId>
+    <LetterType>OESP_LETTER</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>EVANS, MIKE</CustomerName>
+      <AddressLine1>1011 ADELAIDE ST N UNIT 18</AddressLine1>
+      <AddressLine2>LONDON ON  N5Y 2M8</AddressLine2>
+      <PostalCode>N5Y 2M8</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>1011 ADELAIDE ST N UNIT 18</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000003450955</AccountNumber>
+      <FirstName>MIKE</FirstName>
+      <LastName>EVANS</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064115</ReferenceId>
+    <LetterType>OESP_LETTER</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>SAULT, RAMONA</CustomerName>
+      <AddressLine1>1129 MELSANDRA AVE</AddressLine1>
+      <AddressLine2>LONDON ON  N5Y 4N8</AddressLine2>
+      <PostalCode>N5Y 4N8</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>1129 MELSANDRA AVE</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000050971186</AccountNumber>
+      <FirstName>RAMONA</FirstName>
+      <LastName>SAULT</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064116</ReferenceId>
+    <LetterType>OESP_LETTER</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>BRUN, CHRISTINA</CustomerName>
+      <AddressLine1>191 MARCONI BLVD</AddressLine1>
+      <AddressLine2>LONDON ON  N5V 1A6</AddressLine2>
+      <PostalCode>N5V 1A6</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>191 MARCONI BLVD</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051427782</AccountNumber>
+      <FirstName>CHRISTINA</FirstName>
+      <LastName>BRUN</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064117</ReferenceId>
+    <LetterType>OESP_LETTER</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>ST. AMOUR, NATALIE</CustomerName>
+      <AddressLine1>50 CHAPMAN CRT UNIT 64</AddressLine1>
+      <AddressLine2>LONDON ON  N6G 5E1</AddressLine2>
+      <PostalCode>N6G 5E1</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>50 CHAPMAN CRT UNIT 64</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000050271487</AccountNumber>
+      <FirstName>NATALIE</FirstName>
+      <LastName>ST. AMOUR</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064118</ReferenceId>
+    <LetterType>OESP_LETTER</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>CONNORS, RACHAEL</CustomerName>
+      <AddressLine1>485 ENGLISH ST UNIT 2</AddressLine1>
+      <AddressLine2>LONDON ON  N5W 3T6</AddressLine2>
+      <PostalCode>N5W 3T6</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>485 ENGLISH ST UNIT 2</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051263730</AccountNumber>
+      <FirstName>RACHAEL</FirstName>
+      <LastName>CONNORS</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064119</ReferenceId>
+    <LetterType>OESP_LETTER</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>SAYSOMBATH, SOUTHIPHONG</CustomerName>
+      <AddressLine1>274 DUNDAS ST UNIT 207</AddressLine1>
+      <AddressLine2>LONDON ON  N6B 1T6</AddressLine2>
+      <PostalCode>N6B 1T6</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>274 DUNDAS ST UNIT 207</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051347229</AccountNumber>
+      <FirstName>SOUTHIPHONG</FirstName>
+      <LastName>SAYSOMBATH</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064120</ReferenceId>
+    <LetterType>OESP_LETTER</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>RESTREPO, GUSTAVO</CustomerName>
+      <AddressLine1>626 WHARNCLIFFE RD S UNIT 33</AddressLine1>
+      <AddressLine2>LONDON ON  N6J 2N4</AddressLine2>
+      <PostalCode>N6J 2N4</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>30 CLARENDON CRES UNIT 26</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051095068</AccountNumber>
+      <FirstName>GUSTAVO</FirstName>
+      <LastName>RESTREPO</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064121</ReferenceId>
+    <LetterType>OESP_LETTER</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>GOMES, OLIVIA</CustomerName>
+      <AddressLine1>15 JACKSWAY CRES UNIT 102</AddressLine1>
+      <AddressLine2>LONDON ON  N5X 3T8</AddressLine2>
+      <PostalCode>N5X 3T8</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>15 JACKSWAY CRES UNIT 102</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051439779</AccountNumber>
+      <FirstName>OLIVIA</FirstName>
+      <LastName>GOMES</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064122</ReferenceId>
+    <LetterType>OESP_EXPIRY_LETTER</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>BATES, KIM</CustomerName>
+      <AddressLine1>1898 CULVER DR</AddressLine1>
+      <AddressLine2>LONDON ON  N5V 3K6</AddressLine2>
+      <PostalCode>N5V 3K6</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>1898 CULVER DR MAIN</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000002757211</AccountNumber>
+      <FirstName>KIM</FirstName>
+      <LastName>BATES</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064123</ReferenceId>
+    <LetterType>OESP_EXPIRY_LETTER</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>LATTANZIO-TROCCHI, ROBERTA</CustomerName>
+      <AddressLine1>60 HALIBURTON CRES</AddressLine1>
+      <AddressLine2>LONDON ON  N6K 2Y9</AddressLine2>
+      <PostalCode>N6K 2Y9</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>60 HALIBURTON CRES</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000050142430</AccountNumber>
+      <FirstName>ROBERTA</FirstName>
+      <LastName>LATTANZIO-TROCCHI</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064124</ReferenceId>
+    <LetterType>FR_NOTICE</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>SIMS, BRIANNE</CustomerName>
+      <AddressLine1>333 RICHMOND ST</AddressLine1>
+      <AddressLine2>LONDON ON  N6A 3C2</AddressLine2>
+      <PostalCode>N6A 3C2</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>332 RICHMOND ST UNIT 206</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051251389</AccountNumber>
+      <FirstName>BRIANNE</FirstName>
+      <LastName>SIMS</LastName>
+    </AccountData>
+    <MoveData>
+      <TenantFirstName>BRIANNE</TenantFirstName>
+      <TenantLastName>SIMS</TenantLastName>
+      <MoveOutDate>2019-09-30</MoveOutDate>
+      <OwnerName>YOUTH OPPORTUNITIES UNLIMITED</OwnerName>
+    </MoveData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064125</ReferenceId>
+    <LetterType>FR_NOTICE</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>ANTONUCCI, JAMIE</CustomerName>
+      <AddressLine1>560 WELLINGTON ST</AddressLine1>
+      <AddressLine2>LONDON ON  N6A 3R4</AddressLine2>
+      <PostalCode>N6A 3R4</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>102 GRAND AVE UNIT 22</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000050932112</AccountNumber>
+      <FirstName>JAMIE</FirstName>
+      <LastName>ANTONUCCI</LastName>
+    </AccountData>
+    <MoveData>
+      <TenantFirstName>JAMIE</TenantFirstName>
+      <TenantLastName>ANTONUCCI</TenantLastName>
+      <MoveOutDate>2019-09-30</MoveOutDate>
+      <OwnerName>2509605 ONTARIO INC</OwnerName>
+    </MoveData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064126</ReferenceId>
+    <LetterType>FR_NOTICE</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>WARNER, BOBBI</CustomerName>
+      <AddressLine1>3575 WEST CORNER DRIVE</AddressLine1>
+      <AddressLine2>AILSA CRAIG ON  N0M 1A0</AddressLine2>
+      <PostalCode>N0M 1A0</PostalCode>
+      <City>AILSA CRAIG</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>424 BEACHWOOD AVE</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051177056</AccountNumber>
+      <FirstName>BOBBI</FirstName>
+      <LastName>WARNER</LastName>
+    </AccountData>
+    <MoveData>
+      <TenantFirstName>BOBBI</TenantFirstName>
+      <TenantLastName>WARNER</TenantLastName>
+      <MoveOutDate>2019-09-27</MoveOutDate>
+      <OwnerName>BOYLAN , TODD</OwnerName>
+    </MoveData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064127</ReferenceId>
+    <LetterType>FR_NOTICE</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>ARANA-ROMITI, ANNIE</CustomerName>
+      <AddressLine1>73 CIRCLEWOOD DR</AddressLine1>
+      <AddressLine2>ST THOMAS ON  N5P 0A7</AddressLine2>
+      <PostalCode>N5P 0A7</PostalCode>
+      <City>ST THOMAS</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>604 EMERY ST E UNIT A</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051432608</AccountNumber>
+      <FirstName>ANNIE</FirstName>
+      <LastName>ARANA-ROMITI</LastName>
+    </AccountData>
+    <MoveData>
+      <TenantFirstName>ANNIE</TenantFirstName>
+      <TenantLastName>ARANA-ROMITI</TenantLastName>
+      <MoveOutDate>2019-10-01</MoveOutDate>
+      <OwnerName>VANDENDRIESSCHE , CHRYSTINE</OwnerName>
+    </MoveData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064128</ReferenceId>
+    <LetterType>FR_NOTICE</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>JONES, WHITNEY</CustomerName>
+      <AddressLine1>585 SPRINGBANK DR SUITE 204</AddressLine1>
+      <AddressLine2>LONDON ON  N6J 1H3</AddressLine2>
+      <PostalCode>N6J 1H3</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>136 CONWAY DR UNIT 29</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000007053367</AccountNumber>
+      <FirstName>WHITNEY</FirstName>
+      <LastName>JONES</LastName>
+    </AccountData>
+    <MoveData>
+      <TenantFirstName>WHITNEY</TenantFirstName>
+      <TenantLastName>JONES</TenantLastName>
+      <MoveOutDate>2019-09-30</MoveOutDate>
+      <OwnerName>1025091 ONTARIO LIMITED</OwnerName>
+    </MoveData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064129</ReferenceId>
+    <LetterType>FR_NOTICE</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>ZISTER, STACIE</CustomerName>
+      <AddressLine1>2162 WICKERSON RD</AddressLine1>
+      <AddressLine2>LONDON ON  N6K 5C4</AddressLine2>
+      <PostalCode>N6K 5C4</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>154 SCOTCHMERE CRES</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000007312424</AccountNumber>
+      <FirstName>STACIE</FirstName>
+      <LastName>ZISTER</LastName>
+    </AccountData>
+    <MoveData>
+      <TenantFirstName>STACIE</TenantFirstName>
+      <TenantLastName>ZISTER</TenantLastName>
+      <MoveOutDate>2019-10-15</MoveOutDate>
+      <OwnerName>ZISTER , TYLER</OwnerName>
+    </MoveData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064130</ReferenceId>
+    <LetterType>FR_NOTICE</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>AKBUDAK, SERKAN</CustomerName>
+      <AddressLine1>500 BERKSHIRE DR</AddressLine1>
+      <AddressLine2>LONDON ON  N6J 3S1</AddressLine2>
+      <PostalCode>N6J 3S1</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>331 BERKSHIRE DR ELECTRIC</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000050756546</AccountNumber>
+      <FirstName>SERKAN</FirstName>
+      <LastName>AKBUDAK</LastName>
+    </AccountData>
+    <MoveData>
+      <TenantFirstName>SERKAN</TenantFirstName>
+      <TenantLastName>AKBUDAK</TenantLastName>
+      <MoveOutDate>2019-11-29</MoveOutDate>
+      <OwnerName>SIFTON PROPERTIES LTD</OwnerName>
+    </MoveData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064131</ReferenceId>
+    <LetterType>FR_NOTICE</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>ZAIOUR, ABDUL</CustomerName>
+      <AddressLine1>21 KING ST SUITE 103</AddressLine1>
+      <AddressLine2>LONDON ON  N6A 5H3</AddressLine2>
+      <PostalCode>N6A 5H3</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>1670 JALNA BLVD UNIT 508</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051416602</AccountNumber>
+      <FirstName>ABDUL</FirstName>
+      <LastName>ZAIOUR</LastName>
+    </AccountData>
+    <MoveData>
+      <TenantFirstName>ABDUL</TenantFirstName>
+      <TenantLastName>ZAIOUR</TenantLastName>
+      <MoveOutDate>2019-09-30</MoveOutDate>
+      <OwnerName>HOMESTEAD LAND HLDGS LTD</OwnerName>
+    </MoveData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064132</ReferenceId>
+    <LetterType>FR_NOTICE</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>SURINS, HOLLY</CustomerName>
+      <AddressLine1>21 KING ST SUITE 103</AddressLine1>
+      <AddressLine2>LONDON ON  N6A 5H3</AddressLine2>
+      <PostalCode>N6A 5H3</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>1670 JALNA BLVD UNIT 408</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051156224</AccountNumber>
+      <FirstName>HOLLY</FirstName>
+      <LastName>SURINS</LastName>
+    </AccountData>
+    <MoveData>
+      <TenantFirstName>HOLLY</TenantFirstName>
+      <TenantLastName>SURINS</TenantLastName>
+      <MoveOutDate>2019-12-02</MoveOutDate>
+      <OwnerName>HOMESTEAD LAND HLDGS LTD</OwnerName>
+    </MoveData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064133</ReferenceId>
+    <LetterType>FR_NOTICE</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>BINNENDYK, JOAN</CustomerName>
+      <AddressLine1>111 SUNRAY</AddressLine1>
+      <AddressLine2>LONDON ON  N6P 1C6</AddressLine2>
+      <PostalCode>N6P 1C6</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>30 WHISPERWOOD CRES</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000004972370</AccountNumber>
+      <FirstName>JOAN</FirstName>
+      <LastName>BINNENDYK</LastName>
+    </AccountData>
+    <MoveData>
+      <TenantFirstName>JOAN</TenantFirstName>
+      <TenantLastName>BINNENDYK</TenantLastName>
+      <MoveOutDate>2019-10-03</MoveOutDate>
+      <OwnerName>THOMAS , DUNCAN</OwnerName>
+    </MoveData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064134</ReferenceId>
+    <LetterType>FR_NOTICE</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>SMAILL, KYLA</CustomerName>
+      <AddressLine1>23614 ADELAIDE RD</AddressLine1>
+      <AddressLine2>MOUNT BRYDGES ON  N0L 1W0</AddressLine2>
+      <PostalCode>N0L 1W0</PostalCode>
+      <City>MOUNT BRYDGES</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>101 HIGHVIEW AVE E UNIT 26</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051065243</AccountNumber>
+      <FirstName>KYLA</FirstName>
+      <LastName>SMAILL</LastName>
+    </AccountData>
+    <MoveData>
+      <TenantFirstName>KYLA</TenantFirstName>
+      <TenantLastName>SMAILL</TenantLastName>
+      <MoveOutDate>2019-09-30</MoveOutDate>
+      <OwnerName>VAN-DO , ANNE</OwnerName>
+    </MoveData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064135</ReferenceId>
+    <LetterType>FR_NOTICE</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>HAINES, RYAN</CustomerName>
+      <AddressLine1>58 COLONIAL CRES</AddressLine1>
+      <AddressLine2>RICHMOND HILL ON  L4E 3X3</AddressLine2>
+      <PostalCode>L4E 3X3</PostalCode>
+      <City>RICHMOND HILL</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>434 KING ST UNIT 1</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000050949167</AccountNumber>
+      <FirstName>RYAN</FirstName>
+      <LastName>HAINES</LastName>
+    </AccountData>
+    <MoveData>
+      <TenantFirstName>RYAN</TenantFirstName>
+      <TenantLastName>HAINES</TenantLastName>
+      <MoveOutDate>2019-10-31</MoveOutDate>
+      <OwnerName>2695969 ONTARIO INC</OwnerName>
+    </MoveData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064136</ReferenceId>
+    <LetterType>FR_NOTICE</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>SAYSOMBATH, SOUTHIPHONG</CustomerName>
+      <AddressLine1>26 LIAM DR</AddressLine1>
+      <AddressLine2>ANCASTER ON  L9G 4Y1</AddressLine2>
+      <PostalCode>L9G 4Y1</PostalCode>
+      <City>ANCASTER</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>274 DUNDAS ST UNIT 207</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051347229</AccountNumber>
+      <FirstName>SOUTHIPHONG</FirstName>
+      <LastName>SAYSOMBATH</LastName>
+    </AccountData>
+    <MoveData>
+      <TenantFirstName>SOUTHIPHONG</TenantFirstName>
+      <TenantLastName>SAYSOMBATH</TenantLastName>
+      <MoveOutDate>2019-09-30</MoveOutDate>
+      <OwnerName>WINCHESTER FINANCIAL</OwnerName>
+    </MoveData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064137</ReferenceId>
+    <LetterType>FR_NOTICE</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>BROWN, TAMMY</CustomerName>
+      <AddressLine1>2411 DOLLARTON HWY UNIT 200</AddressLine1>
+      <AddressLine2>NORTH VANCOUVER BC  V7H 0A3</AddressLine2>
+      <PostalCode>V7H 0A3</PostalCode>
+      <City>NORTH VANCOUVER</City>
+      <Province>BC</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>103 ADMIRAL DR</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000050141416</AccountNumber>
+      <FirstName>TAMMY</FirstName>
+      <LastName>BROWN</LastName>
+    </AccountData>
+    <MoveData>
+      <TenantFirstName>TAMMY</TenantFirstName>
+      <TenantLastName>BROWN</TenantLastName>
+      <MoveOutDate>2019-09-27</MoveOutDate>
+      <OwnerName>HUME INVEST LTD</OwnerName>
+    </MoveData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064138</ReferenceId>
+    <LetterType>FR_NOTICE</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>FORTEY, LORRIE</CustomerName>
+      <AddressLine1>2 BONAVENTURE DR UNIT 75</AddressLine1>
+      <AddressLine2>LONDON ON  N5V 3Z8</AddressLine2>
+      <PostalCode>N5V 3Z8</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>2 BONAVENTURE DR UNIT 70</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000006803169</AccountNumber>
+      <FirstName>LORRIE</FirstName>
+      <LastName>FORTEY</LastName>
+    </AccountData>
+    <MoveData>
+      <TenantFirstName>LORRIE</TenantFirstName>
+      <TenantLastName>FORTEY</TenantLastName>
+      <MoveOutDate>2019-09-30</MoveOutDate>
+      <OwnerName>SPIRIT HOUSING CO-OP</OwnerName>
+    </MoveData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064139</ReferenceId>
+    <LetterType>FR_NOTICE</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>CONNORS, RACHAEL</CustomerName>
+      <AddressLine1>26 YALE ST</AddressLine1>
+      <AddressLine2>LONDON ON  N6A 3Y4</AddressLine2>
+      <PostalCode>N6A 3Y4</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>485 ENGLISH ST UNIT 2</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051263730</AccountNumber>
+      <FirstName>RACHAEL</FirstName>
+      <LastName>CONNORS</LastName>
+    </AccountData>
+    <MoveData>
+      <TenantFirstName>RACHAEL</TenantFirstName>
+      <TenantLastName>CONNORS</TenantLastName>
+      <MoveOutDate>2019-09-25</MoveOutDate>
+      <OwnerName>RICHARDSON , TERENCE</OwnerName>
+    </MoveData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064140</ReferenceId>
+    <LetterType>FR_NOTICE</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>MURPHY-LODEWEGEN, SHAYNA</CustomerName>
+      <AddressLine1>6463 IONA RD</AddressLine1>
+      <AddressLine2>PORT STANLEY ON  N5L 1J1</AddressLine2>
+      <PostalCode>N5L 1J1</PostalCode>
+      <City>PORT STANLEY</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>708 OXFORD ST E UNIT UPPER</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051405655</AccountNumber>
+      <FirstName>SHAYNA</FirstName>
+      <LastName>MURPHY-LODEWEGEN</LastName>
+    </AccountData>
+    <MoveData>
+      <TenantFirstName>SHAYNA</TenantFirstName>
+      <TenantLastName>MURPHY-LODEWEGEN</TenantLastName>
+      <MoveOutDate>2019-09-30</MoveOutDate>
+      <OwnerName>BENTO , ANTONIO</OwnerName>
+    </MoveData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064141</ReferenceId>
+    <LetterType>FR_NOTICE</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>TAYLOR, BONNIE</CustomerName>
+      <AddressLine1>1299 OXFORD ST E UNIT 5C5</AddressLine1>
+      <AddressLine2>LONDON ON  N5Y 4W5</AddressLine2>
+      <PostalCode>N5Y 4W5</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>1033 HURON ST</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000007126312</AccountNumber>
+      <FirstName>BONNIE</FirstName>
+      <LastName>TAYLOR</LastName>
+    </AccountData>
+    <MoveData>
+      <TenantFirstName>BONNIE</TenantFirstName>
+      <TenantLastName>TAYLOR</TenantLastName>
+      <MoveOutDate>2019-11-08</MoveOutDate>
+      <OwnerName>LONDON &amp; MIDDLESEX COMMUNITY HOUSING INC</OwnerName>
+    </MoveData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064142</ReferenceId>
+    <LetterType>FR_NOTICE</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>TOLLEY, JAMES</CustomerName>
+      <AddressLine1>75 ALBERT ST SUITE 1</AddressLine1>
+      <AddressLine2>LONDON ON  N6A 1L7</AddressLine2>
+      <PostalCode>N6A 1L7</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>133 CECILIA AVE</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000005931573</AccountNumber>
+      <FirstName>JAMES</FirstName>
+      <LastName>TOLLEY</LastName>
+    </AccountData>
+    <MoveData>
+      <TenantFirstName>JAMES</TenantFirstName>
+      <TenantLastName>TOLLEY</TenantLastName>
+      <MoveOutDate>2019-09-30</MoveOutDate>
+      <OwnerName>DEPREST , DANNY</OwnerName>
+    </MoveData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064143</ReferenceId>
+    <LetterType>FR_NOTICE</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>EVANS, MIKE</CustomerName>
+      <AddressLine1>1011 ADELAIDE ST N SUITE 36</AddressLine1>
+      <AddressLine2>LONDON ON  N5Y 2M8</AddressLine2>
+      <PostalCode>N5Y 2M8</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>1011 ADELAIDE ST N UNIT 18</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000003450955</AccountNumber>
+      <FirstName>MIKE</FirstName>
+      <LastName>EVANS</LastName>
+    </AccountData>
+    <MoveData>
+      <TenantFirstName>MIKE</TenantFirstName>
+      <TenantLastName>EVANS</TenantLastName>
+      <MoveOutDate>2019-09-25</MoveOutDate>
+      <OwnerName>1412778 ONTARIO INC.</OwnerName>
+    </MoveData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064144</ReferenceId>
+    <LetterType>FR_NOTICE</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>KOLODY, NATALIE</CustomerName>
+      <AddressLine1>69 DOWNIE ST</AddressLine1>
+      <AddressLine2>STRATFORD ON  N5A 1W7</AddressLine2>
+      <PostalCode>N5A 1W7</PostalCode>
+      <City>STRATFORD</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>128 CENTRAL AVE UNIT 4</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000050809965</AccountNumber>
+      <FirstName>NATALIE</FirstName>
+      <LastName>KOLODY</LastName>
+    </AccountData>
+    <MoveData>
+      <TenantFirstName>NATALIE</TenantFirstName>
+      <TenantLastName>KOLODY</TenantLastName>
+      <MoveOutDate>2019-10-01</MoveOutDate>
+      <OwnerName>THEOCHARIS , ANDY</OwnerName>
+    </MoveData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064145</ReferenceId>
+    <LetterType>FR_NOTICE</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>ALI, SARA</CustomerName>
+      <AddressLine1>111 PETER ST N</AddressLine1>
+      <AddressLine2>ORILLIA ON  L3V 4Z3</AddressLine2>
+      <PostalCode>L3V 4Z3</PostalCode>
+      <City>ORILLIA</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>15 JACKSWAY CRES UNIT 119</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051417957</AccountNumber>
+      <FirstName>SARA</FirstName>
+      <LastName>ALI</LastName>
+    </AccountData>
+    <MoveData>
+      <TenantFirstName>SARA</TenantFirstName>
+      <TenantLastName>ALI</TenantLastName>
+      <MoveOutDate>2019-09-30</MoveOutDate>
+      <OwnerName>JOHNSON , IVAN</OwnerName>
+    </MoveData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064146</ReferenceId>
+    <LetterType>FR_NOTICE</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>LIU, YAN</CustomerName>
+      <AddressLine1>1393 WESTERN RD SUITE 6100</AddressLine1>
+      <AddressLine2>LONDON ON  N6A 3K7</AddressLine2>
+      <PostalCode>N6A 3K7</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>702 PLATT&apos;S LANE ELECTRIC</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051438705</AccountNumber>
+      <FirstName>YAN</FirstName>
+      <LastName>LIU</LastName>
+    </AccountData>
+    <MoveData>
+      <TenantFirstName>YAN</TenantFirstName>
+      <TenantLastName>LIU</TenantLastName>
+      <MoveOutDate>2019-10-15</MoveOutDate>
+      <OwnerName>UWO ACCTS PAYABLE</OwnerName>
+    </MoveData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064147</ReferenceId>
+    <LetterType>FR_NOTICE</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>BADAWI, MANAL</CustomerName>
+      <AddressLine1>279 COMMISSIONERS RD W</AddressLine1>
+      <AddressLine2>LONDON ON  N6J 1Y2</AddressLine2>
+      <PostalCode>N6J 1Y2</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>122 SHERWOOD FOREST SQ UNIT 12</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051261338</AccountNumber>
+      <FirstName>MANAL</FirstName>
+      <LastName>BADAWI</LastName>
+    </AccountData>
+    <MoveData>
+      <TenantFirstName>MANAL</TenantFirstName>
+      <TenantLastName>BADAWI</TenantLastName>
+      <MoveOutDate>2019-09-30</MoveOutDate>
+      <OwnerName>Al Martini , Samer</OwnerName>
+    </MoveData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064148</ReferenceId>
+    <LetterType>FR_NOTICE</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>ALSULIMANI, MOUAID</CustomerName>
+      <AddressLine1>196 WASHBURN ST</AddressLine1>
+      <AddressLine2>BELMONT ON  N0L 1B0</AddressLine2>
+      <PostalCode>N0L 1B0</PostalCode>
+      <City>BELMONT</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>1208 LIMBERLOST RD</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000050871790</AccountNumber>
+      <FirstName>MOUAID</FirstName>
+      <LastName>ALSULIMANI</LastName>
+    </AccountData>
+    <MoveData>
+      <TenantFirstName>MOUAID</TenantFirstName>
+      <TenantLastName>ALSULIMANI</TenantLastName>
+      <MoveOutDate>2019-09-25</MoveOutDate>
+      <OwnerName>BENTLEY , EDWARD</OwnerName>
+    </MoveData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064149</ReferenceId>
+    <LetterType>FR_NOTICE</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>ST. AMOUR, NATALIE</CustomerName>
+      <AddressLine1>50 CHAPMAN CRT UNIT 64</AddressLine1>
+      <AddressLine2>LONDON ON  N6G 5E1</AddressLine2>
+      <PostalCode>N6G 5E1</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>50 CHAPMAN CRT UNIT 64</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000050271487</AccountNumber>
+      <FirstName>NATALIE</FirstName>
+      <LastName>ST. AMOUR</LastName>
+    </AccountData>
+    <MoveData>
+      <TenantFirstName>NATALIE</TenantFirstName>
+      <TenantLastName>ST. AMOUR</TenantLastName>
+      <MoveOutDate>2019-10-21</MoveOutDate>
+      <OwnerName>DARSHA , MOHAMED</OwnerName>
+    </MoveData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064150</ReferenceId>
+    <LetterType>FR_NOTICE</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>BLUEVALE CAPITAL GROUP INC</CustomerName>
+      <AddressLine1>1 BLOOMINGDALE DRIVE</AddressLine1>
+      <AddressLine2>BRAMPTON ON  L6W 3Z6</AddressLine2>
+      <PostalCode>L6W 3Z6</PostalCode>
+      <City>BRAMPTON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>60 BLACKFRIARS ST ELECTRIC</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051110402</AccountNumber>
+      <FirstName>BLUEVALE CAPITAL GROUP INC</FirstName>
+    </AccountData>
+    <MoveData>
+      <MoveOutDate>2019-09-25</MoveOutDate>
+      <OwnerName>BLUEVALE CAPITAL GROUP INC</OwnerName>
+    </MoveData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064151</ReferenceId>
+    <LetterType>FR_NOTICE</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>BLUEVALE CAPITAL GROUP INC</CustomerName>
+      <AddressLine1>1 BLOOMINGDALE DRIVE</AddressLine1>
+      <AddressLine2>BRAMPTON ON  L6W 3Z6</AddressLine2>
+      <PostalCode>L6W 3Z6</PostalCode>
+      <City>BRAMPTON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>60 BLACKFRIARS ST MAIN MTRS</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051110402</AccountNumber>
+      <FirstName>BLUEVALE CAPITAL GROUP INC</FirstName>
+    </AccountData>
+    <MoveData>
+      <MoveOutDate>2019-09-25</MoveOutDate>
+      <OwnerName>BLUEVALE CAPITAL GROUP INC</OwnerName>
+    </MoveData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064152</ReferenceId>
+    <LetterType>FR_NOTICE</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>NAP, DEREK</CustomerName>
+      <AddressLine1>320 AMBLESIDE UNIT 83</AddressLine1>
+      <AddressLine2>LONDON ON  N6G 5H8</AddressLine2>
+      <PostalCode>N6G 5H8</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>521 RIVERSIDE DR UNIT 703</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051043710</AccountNumber>
+      <FirstName>DEREK</FirstName>
+      <LastName>NAP</LastName>
+    </AccountData>
+    <MoveData>
+      <TenantFirstName>DEREK</TenantFirstName>
+      <TenantLastName>NAP</TenantLastName>
+      <MoveOutDate>2019-09-30</MoveOutDate>
+      <OwnerName>CHO , SUNNY</OwnerName>
+    </MoveData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064153</ReferenceId>
+    <LetterType>FR_NOTICE</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>RESTREPO, GUSTAVO</CustomerName>
+      <AddressLine1>30 CLARENDON CRES UNIT 26</AddressLine1>
+      <AddressLine2>LONDON ON  N6C 5Y1</AddressLine2>
+      <PostalCode>N6C 5Y1</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>30 CLARENDON CRES UNIT 26</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051095068</AccountNumber>
+      <FirstName>GUSTAVO</FirstName>
+      <LastName>RESTREPO</LastName>
+    </AccountData>
+    <MoveData>
+      <TenantFirstName>GUSTAVO</TenantFirstName>
+      <TenantLastName>RESTREPO</TenantLastName>
+      <MoveOutDate>2019-09-25</MoveOutDate>
+      <OwnerName>ZULUAGA , JAVIER</OwnerName>
+    </MoveData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064154</ReferenceId>
+    <LetterType>FR_NOTICE</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>WILLIAMS, MICHAEL</CustomerName>
+      <AddressLine1>924 OXFORD ST E</AddressLine1>
+      <AddressLine2>LONDON ON  N5Y 3J9</AddressLine2>
+      <PostalCode>N5Y 3J9</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>475 SANDRINGHAM CRES UNIT 2</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051545899</AccountNumber>
+      <FirstName>MICHAEL</FirstName>
+      <LastName>WILLIAMS</LastName>
+    </AccountData>
+    <MoveData>
+      <TenantFirstName>MICHAEL</TenantFirstName>
+      <TenantLastName>WILLIAMS</TenantLastName>
+      <MoveOutDate>2019-09-30</MoveOutDate>
+      <OwnerName>M F ARNSBY PROPERTY MANAGEMENT LTD</OwnerName>
+    </MoveData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064155</ReferenceId>
+    <LetterType>FR_NOTICE</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>OUNG, CHRISTOPHER</CustomerName>
+      <AddressLine1>PO BOX 6000 KOMOKA ON  N0L 1R0</AddressLine1>
+      <PostalCode>N0L 1R0</PostalCode>
+      <City>KOMOKA</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>1066 COMMISSIONERS RD W UNIT 212</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000007750468</AccountNumber>
+      <FirstName>Christopher</FirstName>
+      <LastName>Oung</LastName>
+    </AccountData>
+    <MoveData>
+      <TenantFirstName>Christopher</TenantFirstName>
+      <TenantLastName>Oung</TenantLastName>
+      <MoveOutDate>2019-09-30</MoveOutDate>
+      <OwnerName>DREWLO HOLDINGS INC</OwnerName>
+    </MoveData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064156</ReferenceId>
+    <LetterType>FR_NOTICE</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>VARFEE, ESTHER</CustomerName>
+      <AddressLine1>1299 OXFORD ST E UNIT 5C5</AddressLine1>
+      <AddressLine2>LONDON ON  N5Y 4W5</AddressLine2>
+      <PostalCode>N5Y 4W5</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>327 MARCONI BLVD</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000050454413</AccountNumber>
+      <FirstName>ESTHER</FirstName>
+      <LastName>VARFEE</LastName>
+    </AccountData>
+    <MoveData>
+      <TenantFirstName>ESTHER</TenantFirstName>
+      <TenantLastName>VARFEE</TenantLastName>
+      <MoveOutDate>2019-09-25</MoveOutDate>
+      <OwnerName>LONDON &amp; MIDDLESEX COMMUNITY HOUSING INC</OwnerName>
+    </MoveData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064157</ReferenceId>
+    <LetterType>FR_NOTICE</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>BRUN, CHRISTINA</CustomerName>
+      <AddressLine1>2975 CATHERINE ST RR</AddressLine1>
+      <AddressLine2>DORCHESTER ON  N0L 1G4</AddressLine2>
+      <PostalCode>N0L 1G4</PostalCode>
+      <City>DORCHESTER</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>191 MARCONI BLVD</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051427782</AccountNumber>
+      <FirstName>CHRISTINA</FirstName>
+      <LastName>BRUN</LastName>
+    </AccountData>
+    <MoveData>
+      <TenantFirstName>CHRISTINA</TenantFirstName>
+      <TenantLastName>BRUN</TenantLastName>
+      <MoveOutDate>2019-09-25</MoveOutDate>
+      <OwnerName>PAZINSKI , NADIA</OwnerName>
+    </MoveData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064158</ReferenceId>
+    <LetterType>FR_NOTICE</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>BARONS, KATIE</CustomerName>
+      <AddressLine1>1396 SUNNINGDALE RD E</AddressLine1>
+      <AddressLine2>LONDON ON  N5X 3Y6</AddressLine2>
+      <PostalCode>N5X 3Y6</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>228 BURNSIDE DR UNIT 00002</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051300243</AccountNumber>
+      <FirstName>KATIE</FirstName>
+      <LastName>BARONS</LastName>
+    </AccountData>
+    <MoveData>
+      <TenantFirstName>KATIE</TenantFirstName>
+      <TenantLastName>BARONS</TenantLastName>
+      <MoveOutDate>2019-09-30</MoveOutDate>
+      <OwnerName>SCHINKEL , BRYAN</OwnerName>
+    </MoveData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064159</ReferenceId>
+    <LetterType>FR_NOTICE</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>EDWARDS, AMANDA</CustomerName>
+      <AddressLine1>126 WHITEACRES DR</AddressLine1>
+      <AddressLine2>LONDON ON  N6G 4E8</AddressLine2>
+      <PostalCode>N6G 4E8</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>254 CHEAPSIDE ST UNIT UPPER</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051467340</AccountNumber>
+      <FirstName>AMANDA</FirstName>
+      <LastName>EDWARDS</LastName>
+    </AccountData>
+    <MoveData>
+      <TenantFirstName>AMANDA</TenantFirstName>
+      <TenantLastName>EDWARDS</TenantLastName>
+      <MoveOutDate>2019-09-30</MoveOutDate>
+      <OwnerName>D-J CONSORTIUM INC</OwnerName>
+    </MoveData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064160</ReferenceId>
+    <LetterType>FR_NOTICE</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>SHAH, HARSH</CustomerName>
+      <AddressLine1>382 QUEENS AVE</AddressLine1>
+      <AddressLine2>LONDON ON  N6B 1X6</AddressLine2>
+      <PostalCode>N6B 1X6</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>334 PRINCESS AVE UNIT 6</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000007773577</AccountNumber>
+      <FirstName>Harsh</FirstName>
+      <LastName>Shah</LastName>
+    </AccountData>
+    <MoveData>
+      <TenantFirstName>Harsh</TenantFirstName>
+      <TenantLastName>Shah</TenantLastName>
+      <MoveOutDate>2019-10-01</MoveOutDate>
+      <OwnerName>RUSSELL , DAVID</OwnerName>
+    </MoveData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064161</ReferenceId>
+    <LetterType>FR_NOTICE</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>PIETROBON, MEGAN</CustomerName>
+      <AddressLine1>1418 ONTARIO ST</AddressLine1>
+      <AddressLine2>BURLINGTON ON  L7S 1G4</AddressLine2>
+      <PostalCode>L7S 1G4</PostalCode>
+      <City>BURLINGTON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>1235 RICHMOND ST UNIT 1617</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051213074</AccountNumber>
+      <FirstName>MEGAN</FirstName>
+      <LastName>PIETROBON</LastName>
+    </AccountData>
+    <MoveData>
+      <TenantFirstName>MEGAN</TenantFirstName>
+      <TenantLastName>PIETROBON</TenantLastName>
+      <MoveOutDate>2019-09-30</MoveOutDate>
+      <OwnerName>RISE REAL ESTATE INC.</OwnerName>
+    </MoveData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064162</ReferenceId>
+    <LetterType>FR_NOTICE</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>BALAKUMAR, SIVANE</CustomerName>
+      <AddressLine1>1418 ONTARIO ST</AddressLine1>
+      <AddressLine2>BURLINGTON ON  L7S 1G4</AddressLine2>
+      <PostalCode>L7S 1G4</PostalCode>
+      <City>BURLINGTON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>1235 RICHMOND ST UNIT 1708</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000007774963</AccountNumber>
+      <FirstName>Sivane</FirstName>
+      <LastName>Balakumar</LastName>
+    </AccountData>
+    <MoveData>
+      <TenantFirstName>Sivane</TenantFirstName>
+      <TenantLastName>Balakumar</TenantLastName>
+      <MoveOutDate>2019-09-30</MoveOutDate>
+      <OwnerName>RISE REAL ESTATE INC.</OwnerName>
+    </MoveData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064163</ReferenceId>
+    <LetterType>FR_NOTICE</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>SOLTANI-HAFSHEJANI, HOUMAN</CustomerName>
+      <AddressLine1>1418 ONTARIO ST</AddressLine1>
+      <AddressLine2>BURLINGTON ON  L7S 1G4</AddressLine2>
+      <PostalCode>L7S 1G4</PostalCode>
+      <City>BURLINGTON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>1235 RICHMOND ST UNIT 1911</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000007700497</AccountNumber>
+      <FirstName>Houman</FirstName>
+      <LastName>Soltani-Hafshejani</LastName>
+    </AccountData>
+    <MoveData>
+      <TenantFirstName>Houman</TenantFirstName>
+      <TenantLastName>Soltani-Hafshejani</TenantLastName>
+      <MoveOutDate>2019-09-25</MoveOutDate>
+      <OwnerName>RISE REAL ESTATE INC.</OwnerName>
+    </MoveData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064164</ReferenceId>
+    <LetterType>FR_NOTICE</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>CHURCHILL, SHIRLEY</CustomerName>
+      <AddressLine1>3800 COLONEL TALBOT RD</AddressLine1>
+      <AddressLine2>LONDON ON  N6P 1H5</AddressLine2>
+      <PostalCode>N6P 1H5</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>315 SOUTHDALE RD W UNIT 901</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051177139</AccountNumber>
+      <FirstName>SHIRLEY</FirstName>
+      <LastName>CHURCHILL</LastName>
+    </AccountData>
+    <MoveData>
+      <TenantFirstName>SHIRLEY</TenantFirstName>
+      <TenantLastName>CHURCHILL</TenantLastName>
+      <MoveOutDate>2019-10-31</MoveOutDate>
+      <OwnerName>CARVEST PROPERTIES LIMITED</OwnerName>
+    </MoveData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064165</ReferenceId>
+    <LetterType>FR_NOTICE</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>DENEAU, ADRIAN</CustomerName>
+      <AddressLine1>1299 SILVERFOX DR</AddressLine1>
+      <AddressLine2>LONDON ON  N6G 0C8</AddressLine2>
+      <PostalCode>N6G 0C8</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>1299 SILVERFOX DR</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000007790464</AccountNumber>
+      <FirstName>Adrian</FirstName>
+      <LastName>Deneau</LastName>
+    </AccountData>
+    <MoveData>
+      <TenantFirstName>Adrian</TenantFirstName>
+      <TenantLastName>Deneau</TenantLastName>
+      <MoveOutDate>2019-09-27</MoveOutDate>
+      <OwnerName>Khan , M Shoaib</OwnerName>
+    </MoveData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064166</ReferenceId>
+    <LetterType>WELCOME_LETTER_RESI</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>COLPITTS, SCOTT</CustomerName>
+      <AddressLine1>315 SOUTHDALE RD W UNIT 810</AddressLine1>
+      <AddressLine2>LONDON ON  N6J 0B1</AddressLine2>
+      <PostalCode>N6J 0B1</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>315 SOUTHDALE RD W UNIT 810</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051538513</AccountNumber>
+      <FirstName>SCOTT</FirstName>
+      <LastName>COLPITTS</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064167</ReferenceId>
+    <LetterType>WELCOME_LETTER_RESI</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>GOSS, GRAHAM</CustomerName>
+      <AddressLine1>412 JARVIS ST</AddressLine1>
+      <AddressLine2>LONDON ON  N6K 1X1</AddressLine2>
+      <PostalCode>N6K 1X1</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>412 JARVIS ST</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000050449604</AccountNumber>
+      <FirstName>GRAHAM</FirstName>
+      <LastName>GOSS</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064168</ReferenceId>
+    <LetterType>WELCOME_LETTER_RESI</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>FINLEY, MYRNA</CustomerName>
+      <AddressLine1>34 GARDENVALE CRES</AddressLine1>
+      <AddressLine2>LONDON ON  N6J 4B9</AddressLine2>
+      <PostalCode>N6J 4B9</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>1890 RICHMOND ST UNIT 42</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000006849262</AccountNumber>
+      <FirstName>MYRNA</FirstName>
+      <LastName>FINLEY</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064169</ReferenceId>
+    <LetterType>WELCOME_LETTER_RESI</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>BURNHAM, SCOTT</CustomerName>
+      <AddressLine1>1919 TRAFALGAR ST UNIT 40</AddressLine1>
+      <AddressLine2>LONDON ON  N5V 1A1</AddressLine2>
+      <PostalCode>N5V 1A1</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>10 PHAIR CRES</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051228297</AccountNumber>
+      <FirstName>SCOTT</FirstName>
+      <LastName>BURNHAM</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064170</ReferenceId>
+    <LetterType>WELCOME_LETTER_RESI</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>MORRISH, CANDICE</CustomerName>
+      <AddressLine1>546 CRESTON AVE</AddressLine1>
+      <AddressLine2>LONDON ON  N6C 3A4</AddressLine2>
+      <PostalCode>N6C 3A4</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>546 CRESTON AVE</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000006618443</AccountNumber>
+      <FirstName>CANDICE</FirstName>
+      <LastName>MORRISH</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064171</ReferenceId>
+    <LetterType>WELCOME_LETTER_RESI</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>CARTER, JOSEPH</CustomerName>
+      <AddressLine1>964 DAME ST</AddressLine1>
+      <AddressLine2>LONDON ON  N5Z 1M6</AddressLine2>
+      <PostalCode>N5Z 1M6</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>964 DAME ST</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051551549</AccountNumber>
+      <FirstName>JOSEPH</FirstName>
+      <LastName>CARTER</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064172</ReferenceId>
+    <LetterType>WELCOME_LETTER_RESI</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>HARPER, JOHN</CustomerName>
+      <AddressLine1>138 MARTINET PL</AddressLine1>
+      <AddressLine2>LONDON ON  N5V 4B5</AddressLine2>
+      <PostalCode>N5V 4B5</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>4 PORTSMOUTH RD</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051553149</AccountNumber>
+      <FirstName>JOHN</FirstName>
+      <LastName>HARPER</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064173</ReferenceId>
+    <LetterType>WELCOME_LETTER_RESI</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>TASKER, PATRICIA</CustomerName>
+      <AddressLine1>93 PINE VALLEY GATE UNIT 42</AddressLine1>
+      <AddressLine2>LONDON ON  N6J 4L5</AddressLine2>
+      <PostalCode>N6J 4L5</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>315 SOUTHDALE RD W UNIT 504</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000050451013</AccountNumber>
+      <FirstName>Patricia</FirstName>
+      <LastName>Tasker</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064174</ReferenceId>
+    <LetterType>WELCOME_LETTER_RESI</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>GAULD, JAMES</CustomerName>
+      <AddressLine1>1900 SHORE RD UNIT 32</AddressLine1>
+      <AddressLine2>LONDON ON  N6K 4P7</AddressLine2>
+      <PostalCode>N6K 4P7</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>1900 SHORE RD UNIT 32</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000007077896</AccountNumber>
+      <FirstName>JAMES</FirstName>
+      <LastName>GAULD</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064175</ReferenceId>
+    <LetterType>WELCOME_LETTER_RESI</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>DUNN, STACEY</CustomerName>
+      <AddressLine1>230 FAIRHAVEN CIR</AddressLine1>
+      <AddressLine2>LONDON ON  N5W 1E2</AddressLine2>
+      <PostalCode>N5W 1E2</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>230 FAIRHAVEN CIR</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051446774</AccountNumber>
+      <FirstName>STACEY</FirstName>
+      <LastName>DUNN</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064176</ReferenceId>
+    <LetterType>WELCOME_LETTER_RESI</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>MORRIS, YOLANDA</CustomerName>
+      <AddressLine1>2104 MEADOWGATE BLVD</AddressLine1>
+      <AddressLine2>LONDON ON  N6M 1K9</AddressLine2>
+      <PostalCode>N6M 1K9</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>2104 MEADOWGATE BLVD</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051555145</AccountNumber>
+      <FirstName>YOLANDA</FirstName>
+      <LastName>MORRIS</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064177</ReferenceId>
+    <LetterType>WELCOME_LETTER_RESI</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>DE JONG, MATTHEW</CustomerName>
+      <AddressLine1>159 SANDRINGHAM CRES UNIT 28</AddressLine1>
+      <AddressLine2>LONDON ON  N6C 5A9</AddressLine2>
+      <PostalCode>N6C 5A9</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>159 SANDRINGHAM CRES UNIT 28</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051556127</AccountNumber>
+      <FirstName>MATTHEW</FirstName>
+      <LastName>DE JONG</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064178</ReferenceId>
+    <LetterType>WELCOME_LETTER_RESI</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>CRIPTON, JENNIFER</CustomerName>
+      <AddressLine1>315 CROMWELL ST</AddressLine1>
+      <AddressLine2>LONDON ON  N6A 1Z7</AddressLine2>
+      <PostalCode>N6A 1Z7</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>315 CROMWELL ST</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051556565</AccountNumber>
+      <FirstName>Jennifer</FirstName>
+      <LastName>Cripton</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064179</ReferenceId>
+    <LetterType>WELCOME_LETTER_RESI</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>OYINLOYE, DANIEL</CustomerName>
+      <AddressLine1>105 GRAND AVE UNIT 22</AddressLine1>
+      <AddressLine2>LONDON ON  N6C 1L9</AddressLine2>
+      <PostalCode>N6C 1L9</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>1960 DALMAGARRY RD UNIT 43</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051367384</AccountNumber>
+      <FirstName>DANIEL</FirstName>
+      <LastName>OYINLOYE</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064180</ReferenceId>
+    <LetterType>WELCOME_LETTER_RESI</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>KORKIDAKIS, DARLENE</CustomerName>
+      <AddressLine1>158 HARLEY ST</AddressLine1>
+      <AddressLine2>LONDON ON  N5Y 2C2</AddressLine2>
+      <PostalCode>N5Y 2C2</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>155 GAMMAGE ST</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051557266</AccountNumber>
+      <FirstName>DARLENE</FirstName>
+      <LastName>KORKIDAKIS</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064181</ReferenceId>
+    <LetterType>WELCOME_LETTER_RESI</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>LINDSAY, JEROME</CustomerName>
+      <AddressLine1>470 KING ST UNIT 3</AddressLine1>
+      <AddressLine2>LONDON ON  N6B 1T1</AddressLine2>
+      <PostalCode>N6B 1T1</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>470 KING ST UNIT 3</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051557274</AccountNumber>
+      <FirstName>JEROME</FirstName>
+      <LastName>LINDSAY</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064182</ReferenceId>
+    <LetterType>WELCOME_LETTER_RESI</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>MICHANO, KENDRA</CustomerName>
+      <AddressLine1>1235 RICHMOND ST UNIT 1717</AddressLine1>
+      <AddressLine2>LONDON ON  N6A 0C1</AddressLine2>
+      <PostalCode>N6A 0C1</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>1235 RICHMOND ST UNIT 1717</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051557282</AccountNumber>
+      <FirstName>KENDRA</FirstName>
+      <LastName>MICHANO</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064183</ReferenceId>
+    <LetterType>WELCOME_LETTER_RESI</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>GAMAL, MALAK</CustomerName>
+      <AddressLine1>15 JACKSWAY CRES UNIT 202</AddressLine1>
+      <AddressLine2>LONDON ON  N5X 3T8</AddressLine2>
+      <PostalCode>N5X 3T8</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>15 JACKSWAY CRES UNIT 202</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051557399</AccountNumber>
+      <FirstName>MALAK</FirstName>
+      <LastName>GAMAL</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064184</ReferenceId>
+    <LetterType>WELCOME_LETTER_RESI</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>JIMENEZ, INGRID</CustomerName>
+      <AddressLine1>591 HAMILTON RD UNIT 4</AddressLine1>
+      <AddressLine2>LONDON ON  N5Z 1S7</AddressLine2>
+      <PostalCode>N5Z 1S7</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>591 HAMILTON RD UNIT 4</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051557422</AccountNumber>
+      <FirstName>INGRID</FirstName>
+      <LastName>JIMENEZ</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064185</ReferenceId>
+    <LetterType>WELCOME_LETTER_RESI</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>MINGO, CHAD</CustomerName>
+      <AddressLine1>322 THOMPSON RD UNIT 6</AddressLine1>
+      <AddressLine2>LONDON ON  N5Z 2Z2</AddressLine2>
+      <PostalCode>N5Z 2Z2</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>322 THOMPSON RD UNIT 6</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051552258</AccountNumber>
+      <FirstName>Chad</FirstName>
+      <LastName>Mingo</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064186</ReferenceId>
+    <LetterType>WELCOME_LETTER_RESI</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>ROSCA, ANDREI</CustomerName>
+      <AddressLine1>1569 BEAVERBROOK AVE</AddressLine1>
+      <AddressLine2>LONDON ON  N6H 5V3</AddressLine2>
+      <PostalCode>N6H 5V3</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>1569 BEAVERBROOK AVE</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051557521</AccountNumber>
+      <FirstName>ANDREI</FirstName>
+      <LastName>ROSCA</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064187</ReferenceId>
+    <LetterType>WELCOME_LETTER_RESI</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>LAFORME, LISA</CustomerName>
+      <AddressLine1>64 GENEVIVE CRES UNIT 16</AddressLine1>
+      <AddressLine2>LONDON ON  N5Y 4A8</AddressLine2>
+      <PostalCode>N5Y 4A8</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>64 GENEVIVE CRES UNIT 16</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051557563</AccountNumber>
+      <FirstName>LISA</FirstName>
+      <LastName>LAFORME</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064188</ReferenceId>
+    <LetterType>WELCOME_LETTER_RESI</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>BARLOW, CRAIG</CustomerName>
+      <AddressLine1>409 RIPPLETON PL</AddressLine1>
+      <AddressLine2>LONDON ON  N6G 1L4</AddressLine2>
+      <PostalCode>N6G 1L4</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>52 CAMERON ST</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051557620</AccountNumber>
+      <FirstName>CRAIG</FirstName>
+      <LastName>BARLOW</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064189</ReferenceId>
+    <LetterType>WELCOME_LETTER_RESI</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>JARYCKI HOUSE FACILITIES LTD</CustomerName>
+      <AddressLine1>834 ADIRONDACK RD</AddressLine1>
+      <AddressLine2>LONDON ON  N6K 4W7</AddressLine2>
+      <PostalCode>N6K 4W7</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>27 BUTTERMERE RD</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051557886</AccountNumber>
+      <FirstName>JARYCKI HOUSE FACILITIES LTD</FirstName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064190</ReferenceId>
+    <LetterType>WELCOME_LETTER_RESI</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>CUEVAS, SILVIA</CustomerName>
+      <AddressLine1>127 BELMONT DR UNIT 603</AddressLine1>
+      <AddressLine2>LONDON ON  N6J 4J7</AddressLine2>
+      <PostalCode>N6J 4J7</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>127 BELMONT DR UNIT 603</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000005981891</AccountNumber>
+      <FirstName>SILVIA</FirstName>
+      <LastName>CUEVAS</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064191</ReferenceId>
+    <LetterType>WELCOME_LETTER_RESI</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>JANIC, LUKAS</CustomerName>
+      <AddressLine1>3880 MALPASS RD</AddressLine1>
+      <AddressLine2>LONDON ON  N6P 1G4</AddressLine2>
+      <PostalCode>N6P 1G4</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>200 RATHOWEN ST</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051558032</AccountNumber>
+      <FirstName>LUKAS</FirstName>
+      <LastName>JANIC</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064192</ReferenceId>
+    <LetterType>WELCOME_LETTER_RESI</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>FIRAJ, AJINA</CustomerName>
+      <AddressLine1>229 FAIRHAVEN CIR</AddressLine1>
+      <AddressLine2>LONDON ON  N5W 1E3</AddressLine2>
+      <PostalCode>N5W 1E3</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>229 FAIRHAVEN CIR</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051558066</AccountNumber>
+      <FirstName>AJINA</FirstName>
+      <LastName>FIRAJ</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064193</ReferenceId>
+    <LetterType>WELCOME_LETTER_RESI</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>AL-SALIHI, THEKRA</CustomerName>
+      <AddressLine1>199 HIDDEN CREEK DR</AddressLine1>
+      <AddressLine2>KITCHENER ON  N2N 3N6</AddressLine2>
+      <PostalCode>N2N 3N6</PostalCode>
+      <City>Kitchener</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>40 FAIRFAX CRT UNIT 43</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051558074</AccountNumber>
+      <FirstName>THEKRA</FirstName>
+      <LastName>AL-SALIHI</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064194</ReferenceId>
+    <LetterType>WELCOME_LETTER_RESI</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>WARNER, BOBBI</CustomerName>
+      <AddressLine1>348 RIDGEWOOD CRES</AddressLine1>
+      <AddressLine2>LONDON ON  N6J 3G9</AddressLine2>
+      <PostalCode>N6J 3G9</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>348 RIDGEWOOD CRES</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051177056</AccountNumber>
+      <FirstName>BOBBI</FirstName>
+      <LastName>WARNER</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064195</ReferenceId>
+    <LetterType>WELCOME_LETTER_RESI</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>JOHN, TINTU</CustomerName>
+      <AddressLine1>2420 CONSTANCE AVE</AddressLine1>
+      <AddressLine2>LONDON ON  N6M 0G6</AddressLine2>
+      <PostalCode>N6M 0G6</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>2420 CONSTANCE AVE</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051558230</AccountNumber>
+      <FirstName>TINTU</FirstName>
+      <LastName>JOHN</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064196</ReferenceId>
+    <LetterType>WELCOME_LETTER_RESI</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>ANTONY, JIJOMON</CustomerName>
+      <AddressLine1>2635 BATEMAN TRAIL UNIT 50</AddressLine1>
+      <AddressLine2>LONDON ON  N6L 0C1</AddressLine2>
+      <PostalCode>N6L 0C1</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>2635 BATEMAN TRAIL UNIT 50</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051558280</AccountNumber>
+      <FirstName>JIJOMON</FirstName>
+      <LastName>ANTONY</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064197</ReferenceId>
+    <LetterType>WELCOME_LETTER_RESI</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>BAINS, SANDEEP</CustomerName>
+      <AddressLine1>112 COLLART PL</AddressLine1>
+      <AddressLine2>PRINCE RUPERT BC  V8J 4L9</AddressLine2>
+      <PostalCode>V8J 4L9</PostalCode>
+      <City>PRINCE RUPERT</City>
+      <Province>BC</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>2394 LEEDS CROSS</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051558305</AccountNumber>
+      <FirstName>SANDEEP</FirstName>
+      <LastName>BAINS</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064198</ReferenceId>
+    <LetterType>WELCOME_LETTER_RESI</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>KAPOOR, TENAZ</CustomerName>
+      <AddressLine1>51 LYNNGATE GROVE</AddressLine1>
+      <AddressLine2>LONDON ON  N6K 3S7</AddressLine2>
+      <PostalCode>N6K 3S7</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>1960 DALMAGARRY RD UNIT 63</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051558363</AccountNumber>
+      <FirstName>TENAZ</FirstName>
+      <LastName>KAPOOR</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064199</ReferenceId>
+    <LetterType>WELCOME_LETTER_RESI</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>REBOUCAS, TIAGO DA SILVA</CustomerName>
+      <AddressLine1>1000 WHETHERFIELD ST</AddressLine1>
+      <AddressLine2>LONDON ON  N6H 5V7</AddressLine2>
+      <PostalCode>N6H 5V7</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>1000 WHETHERFIELD ST</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051557993</AccountNumber>
+      <FirstName>TIAGO DA SILVA</FirstName>
+      <LastName>REBOUCAS</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064200</ReferenceId>
+    <LetterType>WELCOME_LETTER_RESI</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>VARFEE, ESTHER</CustomerName>
+      <AddressLine1>273 WHITE SANDS DR</AddressLine1>
+      <AddressLine2>LONDON ON  N6M 1H9</AddressLine2>
+      <PostalCode>N6M 1H9</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>273 WHITE SANDS DR</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000050454413</AccountNumber>
+      <FirstName>ESTHER</FirstName>
+      <LastName>VARFEE</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064201</ReferenceId>
+    <LetterType>WELCOME_LETTER_RESI</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>YAZDANEANAH, FARSHID</CustomerName>
+      <AddressLine1>427 KINGBIRD CRT</AddressLine1>
+      <AddressLine2>LONDON ON  N5X 4H6</AddressLine2>
+      <PostalCode>N5X 4H6</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>427 KINGBIRD CRT</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051545724</AccountNumber>
+      <FirstName>FARSHID</FirstName>
+      <LastName>YAZDANEANAH</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064202</ReferenceId>
+    <LetterType>WELCOME_LETTER_RESI</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>MERMER, TABBY</CustomerName>
+      <AddressLine1>2621 HOLBROOK DR UNIT 12</AddressLine1>
+      <AddressLine2>LONDON ON  N6M 0G2</AddressLine2>
+      <PostalCode>N6M 0G2</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>2621 HOLBROOK DR UNIT 12</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051557571</AccountNumber>
+      <FirstName>TABBY</FirstName>
+      <LastName>MERMER</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064203</ReferenceId>
+    <LetterType>WELCOME_LETTER_RESI</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>DUFFIELD, WILLIAM BUNTING</CustomerName>
+      <AddressLine1>260 BASE LINE RD E</AddressLine1>
+      <AddressLine2>LONDON ON  N6C 2P4</AddressLine2>
+      <PostalCode>N6C 2P4</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>35 CROXTON RD W</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051551945</AccountNumber>
+      <FirstName>WILLIAM BUNTING</FirstName>
+      <LastName>DUFFIELD</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064204</ReferenceId>
+    <LetterType>WELCOME_LETTER_RESI</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>NI, XINHE</CustomerName>
+      <AddressLine1>275 CALLAWAY RD UNIT 80</AddressLine1>
+      <AddressLine2>LONDON ON  N6G 0M3</AddressLine2>
+      <PostalCode>N6G 0M3</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>275 CALLAWAY RD UNIT 80</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051526782</AccountNumber>
+      <FirstName>XINHE</FirstName>
+      <LastName>NI</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064205</ReferenceId>
+    <LetterType>WELCOME_LETTER_RESI</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>DE MELO, MARCO</CustomerName>
+      <AddressLine1>1525 JIM ALLEN WAY UNIT 9</AddressLine1>
+      <AddressLine2>LONDON ON  N6K 0E1</AddressLine2>
+      <PostalCode>N6K 0E1</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <ServiceAddress>375 MANITOBA ST</ServiceAddress>
+    <AccountData>
+      <AccountNumber>000051558587</AccountNumber>
+      <FirstName>MARCO</FirstName>
+      <LastName>DE MELO</LastName>
+    </AccountData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064206</ReferenceId>
+    <LetterType>EBT_DEFAULT_DROP_LETTER</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>AHMAD, ASSRA</CustomerName>
+      <AddressLine1>48 IVY CRT</AddressLine1>
+      <AddressLine2>LONDON ON  N5Z 3B3</AddressLine2>
+    </MailingAddress>
+    <AccountData>
+      <AccountNumber>000050894320</AccountNumber>
+    </AccountData>
+    <EBTData>
+      <RetailerName>Just Energy Ontario L.P.</RetailerName>
+      <EffectiveDate>2019-10-30</EffectiveDate>
+      <RetailerAddress>DIXIE RD 6345</RetailerAddress>
+      <RetailerCity>MISSISSAUGA</RetailerCity>
+      <RetailerProvince>ON</RetailerProvince>
+      <RetailerPostalCode>L5T 2E6</RetailerPostalCode>
+      <RetailerTelephone>+18665878674</RetailerTelephone>
+    </EBTData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064207</ReferenceId>
+    <LetterType>EBT_DEFAULT_DROP_LETTER</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>BURROWS, KENNETH</CustomerName>
+      <AddressLine1>173 TOULON CRES</AddressLine1>
+      <AddressLine2>LONDON ON  N5V 1J4</AddressLine2>
+    </MailingAddress>
+    <AccountData>
+      <AccountNumber>000006871710</AccountNumber>
+    </AccountData>
+    <EBTData>
+      <RetailerName>Just Energy Ontario L.P.</RetailerName>
+      <EffectiveDate>2019-10-07</EffectiveDate>
+      <RetailerAddress>DIXIE RD 6345</RetailerAddress>
+      <RetailerCity>MISSISSAUGA</RetailerCity>
+      <RetailerProvince>ON</RetailerProvince>
+      <RetailerPostalCode>L5T 2E6</RetailerPostalCode>
+      <RetailerTelephone>+18665878674</RetailerTelephone>
+    </EBTData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064208</ReferenceId>
+    <LetterType>RETURN_PAYMENT</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>DIVERSEY CANADA  INC</CustomerName>
+      <AddressLine1>1151 GREEN VALLEY RD</AddressLine1>
+      <AddressLine2>LONDON ON  N6N 1E4</AddressLine2>
+      <PostalCode>N6N 1E4</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <AccountData>
+      <AccountNumber>000005313862</AccountNumber>
+      <FirstName>DIVERSEY CANADA  INC</FirstName>
+    </AccountData>
+    <FICAData>
+      <AmountReturned>982.02</AmountReturned>
+      <ReturnReason>Payment Stopped/Recalled</ReturnReason>
+    </FICAData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064209</ReferenceId>
+    <LetterType>RETURN_PAYMENT</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>MITCHELL, NANCY</CustomerName>
+      <AddressLine1>49 BLACKACRES BLVD</AddressLine1>
+      <AddressLine2>LONDON ON  N6G 2G7</AddressLine2>
+      <PostalCode>N6G 2G7</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <AccountData>
+      <AccountNumber>000007063613</AccountNumber>
+      <FirstName>NANCY</FirstName>
+      <LastName>MITCHELL</LastName>
+    </AccountData>
+    <FICAData>
+      <AmountReturned>450.0</AmountReturned>
+      <TotalAmount>465.0</TotalAmount>
+      <AdminFee>15.0</AdminFee>
+      <ReturnReason>return reason for NSF</ReturnReason>
+    </FICAData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064210</ReferenceId>
+    <LetterType>RETURN_PAYMENT</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>MOSSEY, LYONEL</CustomerName>
+      <AddressLine1>265 CLARKE RD</AddressLine1>
+      <AddressLine2>LONDON ON  N5W 5E7</AddressLine2>
+      <PostalCode>N5W 5E7</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <AccountData>
+      <AccountNumber>000050444159</AccountNumber>
+      <FirstName>LYONEL</FirstName>
+      <LastName>MOSSEY</LastName>
+    </AccountData>
+    <FICAData>
+      <AmountReturned>41.06</AmountReturned>
+      <ReturnReason>Payor Deceased</ReturnReason>
+    </FICAData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064211</ReferenceId>
+    <LetterType>RETURN_PAYMENT</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>MURPHY, DANIEL</CustomerName>
+      <AddressLine1>64 DOWNING CRES</AddressLine1>
+      <AddressLine2>LONDON ON  N6C 3C8</AddressLine2>
+      <PostalCode>N6C 3C8</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <AccountData>
+      <AccountNumber>000051279018</AccountNumber>
+      <FirstName>DANIEL</FirstName>
+      <LastName>MURPHY</LastName>
+    </AccountData>
+    <FICAData>
+      <AmountReturned>288.86</AmountReturned>
+      <TotalAmount>303.86</TotalAmount>
+      <AdminFee>15.0</AdminFee>
+      <ReturnReason>return reason for NSF</ReturnReason>
+    </FICAData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064212</ReferenceId>
+    <LetterType>RETURN_PAYMENT</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>BAKIEH, JAD</CustomerName>
+      <AddressLine1>1007 ADELAIDE ST N UNIT 7</AddressLine1>
+      <AddressLine2>LONDON ON  N5Y 2M8</AddressLine2>
+      <PostalCode>N5Y 2M8</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <AccountData>
+      <AccountNumber>000051253442</AccountNumber>
+      <FirstName>JAD</FirstName>
+      <LastName>BAKIEH</LastName>
+    </AccountData>
+    <FICAData>
+      <AmountReturned>52.54</AmountReturned>
+      <TotalAmount>67.54</TotalAmount>
+      <AdminFee>15.0</AdminFee>
+      <ReturnReason>return reason for NSF</ReturnReason>
+    </FICAData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064213</ReferenceId>
+    <LetterType>RETURN_PAYMENT</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>COVALIU, ILONA</CustomerName>
+      <AddressLine1>1579 DEVOS DR</AddressLine1>
+      <AddressLine2>LONDON ON  N5X 4K8</AddressLine2>
+      <PostalCode>N5X 4K8</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <AccountData>
+      <AccountNumber>000051112565</AccountNumber>
+      <FirstName>ILONA</FirstName>
+      <LastName>COVALIU</LastName>
+    </AccountData>
+    <FICAData>
+      <AmountReturned>161.36</AmountReturned>
+      <ReturnReason>Account Closed</ReturnReason>
+    </FICAData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064214</ReferenceId>
+    <LetterType>RETURN_PAYMENT</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>FROATS, WAYNE</CustomerName>
+      <AddressLine1>902 WILLIAM ST</AddressLine1>
+      <AddressLine2>LONDON ON  N5Y 2S6</AddressLine2>
+      <PostalCode>N5Y 2S6</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <AccountData>
+      <AccountNumber>000002876293</AccountNumber>
+      <FirstName>WAYNE</FirstName>
+      <LastName>FROATS</LastName>
+    </AccountData>
+    <FICAData>
+      <AmountReturned>166.18</AmountReturned>
+      <TotalAmount>181.18</TotalAmount>
+      <AdminFee>15.0</AdminFee>
+      <ReturnReason>return reason for NSF</ReturnReason>
+    </FICAData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064215</ReferenceId>
+    <LetterType>RETURN_PAYMENT</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>BRUNI, JUSTIN</CustomerName>
+      <AddressLine1>37 COTTONWOOD DR</AddressLine1>
+      <AddressLine2>ST THOMAS ON  N5P 4M7</AddressLine2>
+      <PostalCode>N5P 4M7</PostalCode>
+      <City>ST THOMAS</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <AccountData>
+      <AccountNumber>000050441345</AccountNumber>
+      <FirstName>Justin</FirstName>
+      <LastName>Bruni</LastName>
+    </AccountData>
+    <FICAData>
+      <AmountReturned>21.58</AmountReturned>
+      <ReturnReason>Account Closed</ReturnReason>
+    </FICAData>
+  </Letter>
+  <Letter>
+    <ReferenceId>LTR000000064216</ReferenceId>
+    <LetterType>PAP_REMOVAL</LetterType>
+    <CurrentDate>2019-09-24</CurrentDate>
+    <Language>E</Language>
+    <MailingAddress>
+      <CustomerName>MCGEE, KARYN</CustomerName>
+      <AddressLine1>202 QUEENSTON CRES</AddressLine1>
+      <AddressLine2>LONDON ON  N5W 1N6</AddressLine2>
+      <PostalCode>N5W 1N6</PostalCode>
+      <City>LONDON</City>
+      <Province>ON</Province>
+      <Country>CA</Country>
+    </MailingAddress>
+    <AccountData>
+      <AccountNumber>000007537155</AccountNumber>
+      <FirstName>KARYN</FirstName>
+      <LastName>MCGEE</LastName>
+    </AccountData>
+  </Letter>
+</BatchLetters>

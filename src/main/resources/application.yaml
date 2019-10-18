@@ -1,0 +1,19 @@
+spring:
+  cloud:
+    stream:
+      kafka:
+        binder:
+          brokers: localhost:9092
+      bindings:
+        bills-in:
+          destination: billImages
+          contentType: application/json
+        bills-out:
+          destination: billImages
+          contentType: application/json
+        letters-in:
+          destination: letterImages
+          contentType: application/json
+        letters-out:
+          destination: letterImages
+          contentType: application/json

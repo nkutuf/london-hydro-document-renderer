@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://londonhydro.com/Matrix/BILL/BillPrint" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="MT_BillPrint" type="bil:MT_BillPrintType" xmlns:bil="http://londonhydro.com/Matrix/BILL/BillPrint"/>
+  <xs:complexType name="MT_BillPrintType">
+    <xs:sequence>
+      <xs:element ref="invextract"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

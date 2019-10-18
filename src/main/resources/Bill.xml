@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="application/xml" href="ElencoConSoluzioni.xslt"?>
+<MT_BillPrint>
+      <invextract  date="2019-08-13">
+         
+       <invdoc InvType="utility" ContractAccount="000050886400" InvoiceNumber="074001057395" CustomerNumber="1000099494"></invdoc>
+    <testata>
+        <nomemercato id="007">Mercato di test</nomemercato>
+        <data>Giovedi 18 dicembre 2003 16.05.29</data>
+    </testata>
+    <CustomerInformation>
+        <DisplayName>SARETSKY, MICHAEL</DisplayName>
+        <LastName>Miami American Cafe</LastName>
+        <FirstName>IT07654930130</FirstName>
+        <MailingAddress>
+<addr1>C/O ABBEY RENTALS  PROP MNGT</addr1>
+<addr2>710 ADELAIDE ST N</addr2>
+<addr3>LONDON ON N5Y 2L5</addr3>
+<City>LONDON</City>
+<Province>ON</Province>
+<country>CANADA</country>
+<postal_code>N5Y 2L5</postal_code>
+                </MailingAddress>
+<EPP tipo="ufficio">Via Biancospini 20, Messina</EPP>
+<InvDetails>8</InvDetails>
+<InvSummary>
+<SummaryItem>
+<Display>Billing Date</Display>
+<Value type="date">20190813</Value>
+<GroupOrder>header</GroupOrder>
+<SortOrder>1</SortOrder>
+</SummaryItem>
+<SummaryItem>
+<Display>Application Form</Display>
+<Value type="alpha">Z_IS_U_BI_BILL_NORMAL2</Value>
+<GroupOrder>header</GroupOrder>
+<SortOrder>2</SortOrder>
+</SummaryItem>
+<SummaryItem>
+<Display>Total Current Utility Charges</Display>
+<Value type="numeric">195.70 </Value>
+<GroupOrder>summary</GroupOrder>
+<SortOrder>4</SortOrder>
+</SummaryItem>
+<SummaryItem>
+<Display>Budget Billing Amount</Display>
+<Value type="numeric">192.00 </Value>
+<GroupOrder>summary</GroupOrder>
+<SortOrder>5</SortOrder>
+</SummaryItem>
+
+<SummaryItem>
+<Display>~(Total HST $17.84 )</Display>
+<Value type="alpha"/>
+<GroupOrder>summary</GroupOrder>
+<SortOrder>6</SortOrder>
+</SummaryItem>
+<SummaryItem>
+<Display>Total Amount Due</Display>
+<Value type="numeric">-494.29</Value>
+<GroupOrder>summary</GroupOrder>
+<SortOrder>7</SortOrder>
+</SummaryItem>
+
+
+<OCR>000005088640000000494290000049429201908296</OCR>
+<OMRIncludeReturnEnvelope>N</OMRIncludeReturnEnvelope>
+<SuppressMailing>N</SuppressMailing>
+<InterestRate>1.5</InterestRate>
+<MailMethod>electronic</MailMethod>
+</InvSummary>
+</CustomerInformation>
+
+        
+      </invextract>
+</MT_BillPrint>

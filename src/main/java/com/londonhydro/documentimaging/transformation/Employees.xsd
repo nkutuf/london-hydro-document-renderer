@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="invextract" type="invextractType"/>
+  <xs:complexType name="MailingAddressType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="addr1"/>
+      <xs:element type="xs:string" name="addr2"/>
+      <xs:element type="xs:string" name="addr3"/>
+      <xs:element type="xs:string" name="City"/>
+      <xs:element type="xs:string" name="Province"/>
+      <xs:element type="xs:string" name="country"/>
+      <xs:element type="xs:string" name="postal_code"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="CustomerInformationType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="DisplayName"/>
+      <xs:element type="xs:string" name="LastName"/>
+      <xs:element type="xs:string" name="FirstName"/>
+      <xs:element type="MailingAddressType" name="MailingAddress"/>
+      <xs:element type="xs:string" name="Email"/>
+      <xs:element type="xs:string" name="VacantOwner"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ValueType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="type" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="SummaryItemType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="Display"/>
+      <xs:element type="ValueType" name="Value"/>
+      <xs:element name="GroupOrder">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="header"/>
+            <xs:enumeration value="summary"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="SortOrder">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="1"/>
+            <xs:enumeration value="2"/>
+            <xs:enumeration value="3"/>
+            <xs:enumeration value="4"/>
+            <xs:enumeration value="5"/>
+            <xs:enumeration value="6"/>
+            <xs:enumeration value="7"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="InvSummaryType">
+    <xs:sequence>
+      <xs:element type="SummaryItemType" name="SummaryItem" maxOccurs="unbounded" minOccurs="0"/>
+      <xs:element type="xs:string" name="OCR"/>
+      <xs:element type="xs:string" name="OMRIncludeReturnEnvelope"/>
+      <xs:element type="xs:string" name="SuppressMailing"/>
+      <xs:element type="xs:string" name="InterestRate"/>
+      <xs:element type="xs:string" name="MailMethod"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="EPPType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="StartDate"/>
+      <xs:element type="xs:string" name="EndDate"/>
+      <xs:element type="xs:string" name="Amount"/>
+      <xs:element type="xs:string" name="BilledToDate"/>
+      <xs:element type="xs:string" name="ActualCostToDate"/>
+      <xs:element type="xs:string" name="UnbilledBudgetBalance"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ChargeLineType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="Display"/>
+      <xs:element type="ValueType" name="Value"/>
+      <xs:element name="UnitCost" minOccurs="0">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="0.134"/>
+            <xs:enumeration value="0.094"/>
+            <xs:enumeration value="0.065"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="GroupOrder">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="detailsum"/>
+            <xs:enumeration value="detail"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element type="xs:string" name="SortOrder"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="TotalChargesType">
+    <xs:sequence>
+      <xs:element type="ChargeLineType" name="ChargeLine"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="DetailChargesType">
+    <xs:sequence>
+      <xs:element type="ChargeLineType" name="ChargeLine" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="FromUsageType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="date" use="optional"/>
+        <xs:attribute type="xs:string" name="type" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="ToUsageType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="date" use="optional"/>
+        <xs:attribute type="xs:string" name="type" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="RegisterType">
+    <xs:sequence>
+      <xs:element type="FromUsageType" name="FromUsage"/>
+      <xs:element type="ToUsageType" name="ToUsage"/>
+      <xs:element name="AdjustmentFactor">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="1.0315"/>
+            <xs:enumeration value="1.0"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="ActualUsage">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="       1058.57"/>
+            <xs:enumeration value="          8.00"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="AdjustedUsage">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="       1091.91"/>
+            <xs:enumeration value="          8.00"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element type="xs:string" name="PrimaryAdjustmentFactor" minOccurs="0"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="type" use="optional"/>
+    <xs:attribute type="xs:string" name="multiplier" use="optional"/>
+  </xs:complexType>
+  <xs:complexType name="MeterType">
+    <xs:sequence>
+      <xs:element type="RegisterType" name="Register"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="MeterNumber" use="optional"/>
+    <xs:attribute type="xs:string" name="type" use="optional"/>
+  </xs:complexType>
+  <xs:complexType name="MeterDataType">
+    <xs:sequence>
+      <xs:element type="MeterType" name="Meter"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="TouType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="Peak" use="optional"/>
+        <xs:attribute type="xs:string" name="Consumption" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="UsageType" mixed="true">
+    <xs:sequence>
+      <xs:element type="TouType" name="Tou" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="date" use="optional"/>
+    <xs:attribute type="xs:string" name="type" use="optional"/>
+    <xs:attribute type="xs:string" name="MeasureUnits" use="optional"/>
+    <xs:attribute type="xs:string" name="Consumption" use="optional"/>
+  </xs:complexType>
+  <xs:complexType name="UsageHistoryType">
+    <xs:sequence>
+      <xs:element type="UsageType" name="Usage" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ServiceType">
+    <xs:sequence>
+      <xs:element name="InstallationNumber">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="0000183695"/>
+            <xs:enumeration value="0000183696"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element type="xs:string" name="AccountNumber" minOccurs="0"/>
+      <xs:element type="xs:string" name="UnitsServed"/>
+      <xs:element name="RateDescription">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="Residential Supply: SSS / RPPElectricity - Residential Distribution"/>
+            <xs:enumeration value="Water, Sewer &amp; Storm water Residential"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element type="xs:string" name="NoofConnection"/>
+      <xs:element type="TotalChargesType" name="TotalCharges"/>
+      <xs:element type="DetailChargesType" name="DetailCharges"/>
+      <xs:element type="MeterDataType" name="MeterData"/>
+      <xs:element type="UsageHistoryType" name="UsageHistory"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="type" use="optional"/>
+    <xs:attribute type="xs:string" name="Premise" use="optional"/>
+  </xs:complexType>
+  <xs:complexType name="InvDetailsType">
+    <xs:sequence>
+      <xs:element type="ServiceType" name="Service" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="invdocType">
+    <xs:sequence>
+      <xs:element type="CustomerInformationType" name="CustomerInformation"/>
+      <xs:element type="InvSummaryType" name="InvSummary"/>
+      <xs:element type="EPPType" name="EPP"/>
+      <xs:element type="InvDetailsType" name="InvDetails"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="InvType"/>
+    <xs:attribute type="xs:string" name="ContractAccount"/>
+    <xs:attribute type="xs:string" name="InvoiceNumber"/>
+    <xs:attribute type="xs:string" name="CustomerNumber"/>
+  </xs:complexType>
+  <xs:complexType name="invextractType">
+    <xs:sequence>
+      <xs:element type="invdocType" name="invdoc"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="date"/>
+  </xs:complexType>
+</xs:schema>
