@@ -3,7 +3,7 @@ spring:
     stream:
       kafka:
         binder:
-          brokers: localhost:9092
+          brokers: pkc-4nym6.us-east-1.aws.confluent.cloud:9092
       bindings:
         bills-in:
           destination: billImages
@@ -17,3 +17,10 @@ spring:
         letters-out:
           destination: letterImages
           contentType: application/json
+  ssl.endpoint.identification.algorithm=https
+  sasl.mechanism=PLAIN
+  request.timeout.ms=20000
+  bootstrap.servers=pkc-4nym6.us-east-1.aws.confluent.cloud:9092
+  retry.backoff.ms=500
+  sasl.jaas.config=org.apache.kafka.common.security.plain.PlainLoginModule required username="ILJJ64SOUTC3JW5G" password="Mavj7hS9cmhOOsOYHj2N1xGm/7sYPWbB7B+WlE3nPZYgm2hIWux9O3j71nLYq/ko";
+  security.protocol=SASL_SSL

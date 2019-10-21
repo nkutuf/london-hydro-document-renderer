@@ -50,7 +50,8 @@ public static void test(){
 
         String billImageFileName = fileName + "." + "pdf";
         System.out.println("billImageFileName.............." + billImageFileName);
-        Mongo mongo = new Mongo("localhost", 27017);
+        //Mongo mongo = new Mongo("127.0.0.1", 27017);
+        Mongo mongo = new Mongo("10.129.5.11", 8085);
         DB db = mongo.getDB("imagedb");
         GridFSDBFile imageForOutput = null;
         GridFS gfsBillImage = new GridFS(db, "photo");

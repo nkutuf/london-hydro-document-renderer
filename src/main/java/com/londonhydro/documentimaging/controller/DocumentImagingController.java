@@ -190,7 +190,7 @@ public class DocumentImagingController {
             throws IOException {
         try {
 
-            String pdfFileUrl = "http://localhost:8080/api/getbyid/billImageFile-074001057395/type/pdf";
+            String pdfFileUrl = "http://127.0.0.1:8080/api/getbyid/" + fileName + "/type/pdf";
             URL url=new URL(pdfFileUrl);
             HttpURLConnection connection=(HttpURLConnection)url.openConnection();
             InputStream is=connection.getInputStream();

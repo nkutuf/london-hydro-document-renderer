@@ -21,7 +21,8 @@ import java.util.StringTokenizer;
 @Slf4j
 @Service
 public class DocumentImageRepositoryManager {
-    Mongo mongo = new Mongo("localhost", 27017);
+    //Mongo mongo = new Mongo("127.0.0.1", 27017);
+    Mongo mongo = new Mongo("10.129.5.11", 8085);
     DB db = mongo.getDB("LHbillimagedb");
     DBCollection collection = db.getCollection("dummyColl");
     // create a "billImage" namespace
@@ -40,7 +41,7 @@ public class DocumentImageRepositoryManager {
             gfsFile.setFilename(newFileName);
 
             // save the image file into mongoDB
-            gfsFile.save();
+            gfsFile.save(); //http://127.0.0.1:8080/api/delete/billsbillImageFilem-LTR000000064120.pdf
 
         } catch (UnknownHostException e) {
             //log.info(e.printStackTrace());
@@ -65,9 +66,9 @@ public class DocumentImageRepositoryManager {
                 while (st.hasMoreTokens()) {
                     String billImageName = st.nextToken();
                     if(billImageName.contains(".pdf")) {
-                        String billImageLink = "<tr><td style=\'text-align:center\'><a href='" + "http://localhost:8080/api/getbyid/" + billImageName.substring(0,billImageName.indexOf(".pdf")) + "/type/pdf" + "'>" + billImageName + "</a></td>";
-                        billImageLink =  billImageLink + "<td style=\'text-align:right\'><a href='http://localhost:8080/api/delete/" + billImageName + "'>" +  "delete"+ "</a></td>";
-                        billImageLink =  billImageLink + "<td style=\'text-align:right\'><a href='http://localhost:8080/api/html/getbyid/" + billImageName + "'>" +  "html"+ "</a></td>";
+                        String billImageLink = "<tr><td style=\'text-align:center\'><a href='" + "http://127.0.0.1:8080/api/getbyid/" + billImageName.substring(0,billImageName.indexOf(".pdf")) + "/type/pdf" + "'>" + billImageName + "</a></td>";
+                        billImageLink =  billImageLink + "<td style=\'text-align:right\'><a href='http://127.0.0.1:8080/api/delete/" + billImageName + "'>" +  "delete"+ "</a></td>";
+                        billImageLink =  billImageLink + "<td style=\'text-align:right\'><a href='http://127.0.0.1:8080/api/html/getbyid/" + billImageName + "'>" +  "html"+ "</a></td>";
                         billImageLink =  billImageLink + "</tr>";
                         sb.append(billImageLink);
                     }
